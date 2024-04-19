@@ -1,0 +1,12 @@
+# IPython Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb~
+
+# Python virtual environment
+formula1_analysis/
+data/
