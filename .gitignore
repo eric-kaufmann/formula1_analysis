@@ -10,3 +10,7 @@
 # Python virtual environment
 formula1_analysis/
 data/
+
+# Cache files from Excel
+~$*.xlsx
+~$*.xls
